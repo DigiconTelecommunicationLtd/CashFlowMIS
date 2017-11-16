@@ -1,0 +1,13 @@
+ProductID,Product Name,Product Category Name,Product Category ID,Quantity,UOM,Unit Price,Currency(BDT/USD),Unit Weight,UOM of Unit weight
+1,12m 4legged tower,Telecom Tower,1,500,SETS,600,BDT,800,KG
+2,12m 3legged tower (185kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+3,12m 3legged tower (210kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+4,12m 3legged tower (260kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+5,15m 4legged tower,Telecom Tower,1,500,SETS,600,BDT,800,KG
+6,15m 3legged tower (185kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+7,15m 3legged tower (210kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+8,15m 3legged tower (260kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+9,20m 4legged tower,Telecom Tower,1,500,SETS,600,BDT,800,KG
+10,20m 3legged tower (185kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+11,20m 3legged tower (210kph),Telecom Tower,1,500,SETS,600,BDT,800,KG
+12,20m 3legged tower (210kph),Telecom Tower,1,500,SETS,601,BDT,801,KG
